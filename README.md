@@ -1,2 +1,2 @@
-# webpack-tailwindcss-openlayers
-A simple Webpack + TailwindCSS + OpenLayers project kickstart
+## Webpack + TailwindCSS for Webmap Projects
+A simple Webpack + TailwindCSS for webmap projects
