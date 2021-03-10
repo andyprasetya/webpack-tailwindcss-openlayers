@@ -11,6 +11,6 @@ app.use(
     publicPath: config.output.publicPath,
   })
 );
-app.listen(27808, function () {
-  console.log('App listening on port 27808!\n');
+app.listen(3857, function () {
+  console.log('App listening on port 3857!\n');
 });
