@@ -12,8 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/andyprasetya/webpack-tailwindcss-openlayers.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "webpack",
+    "tailwindcss"
+  ],
+  "author": {
+    "name": "Andy Prasetya",
+    "email": "andyprasetya@aol.com",
+    "url": "http://opense7en.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/andyprasetya/webpack-tailwindcss-openlayers/issues"
