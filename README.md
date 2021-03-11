@@ -1,2 +1,2 @@
-## Webpack + TailwindCSS for Webmap Projects
+## Webpack + TailwindCSS
 A simple Webpack + TailwindCSS for webmap projects
