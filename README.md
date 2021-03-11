@@ -1,2 +1,2 @@
 ## Webpack + TailwindCSS
-A simple Webpack + TailwindCSS for webmap projects
+A simple Webpack + TailwindCSS for webmap projects (branch: `openlayers-development`)
